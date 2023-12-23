@@ -3,7 +3,10 @@
 
 It's a game which name is Tac-Tic-Toe. I made this game using React JS. 
 
+## Screenshots
 
+![App Screenshot](https://i.postimg.cc/TY9x77rY/Screenshot-2023-12-17-002850.png)
+![App Screenshot](https://i.postimg.cc/qBQhnLzy/Screenshot-2023-12-17-003013.png)
 
 
 ## Live Demo
